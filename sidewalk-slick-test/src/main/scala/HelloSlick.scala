@@ -1,4 +1,5 @@
 import scala.slick.driver.H2Driver.simple._
+//import scala.slick.driver.MySQLDriver.simple._
 
 // The main application
 object HelloSlick extends App {
